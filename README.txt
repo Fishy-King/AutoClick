@@ -1,0 +1,1 @@
+Paste the JS code into the devtools console on the page you want to use. If you dont know how to get to devtools, press F12 and click console.
