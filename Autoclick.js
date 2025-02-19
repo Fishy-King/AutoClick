@@ -30,7 +30,7 @@
             <button id="stop-btn" style="background: #FF5733; color: white;">Stop</button>
         `;
         Object.assign(ui.style, {
-            position: "fixed",
+            position: "absolute",
             bottom: "20px",
             right: "20px",
             width: "150px",
